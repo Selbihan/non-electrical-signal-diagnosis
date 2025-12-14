@@ -1,0 +1,1 @@
+Hocam veriseti çok büyük olduğu için zipledim fakat sisteme yükleyemedim muhtemelen çalıştırdığınız zaman kodum hata verecek ama ben kendi bilgisayarımdan ya da veri setini sizin bilgisayarınıza indirdiğimde kodum çalışacaktır.
